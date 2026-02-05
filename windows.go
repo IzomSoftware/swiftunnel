@@ -5,10 +5,10 @@ package swiftunnel
 import (
 	"errors"
 	"fmt"
-	"github.com/SyNdicateFoundation/swiftunnel/openvpn"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftconfig"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftypes"
-	"github.com/SyNdicateFoundation/swiftunnel/wintun"
+	"github.com/IzomSoftware/swiftunnel/openvpn"
+	"github.com/IzomSoftware/swiftunnel/swiftconfig"
+	"github.com/IzomSoftware/swiftunnel/swiftypes"
+	"github.com/IzomSoftware/swiftunnel/wintun"
 	"os"
 )
 

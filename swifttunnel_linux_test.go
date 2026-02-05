@@ -3,8 +3,8 @@
 package swiftunnel
 
 import (
-	"github.com/SyNdicateFoundation/swiftunnel/swiftconfig"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftypes"
+	"github.com/IzomSoftware/swiftunnel/swiftconfig"
+	"github.com/IzomSoftware/swiftunnel/swiftypes"
 	"net"
 	"testing"
 )

@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftypes"
+	"github.com/IzomSoftware/swiftunnel/swiftypes"
 	"golang.org/x/sys/windows"
 	"golang.org/x/sys/windows/registry"
 	"net"

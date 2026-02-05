@@ -4,8 +4,8 @@ package swiftunnel
 
 import (
 	"fmt"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftconfig"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftypes"
+	"github.com/IzomSoftware/swiftunnel/swiftconfig"
+	"github.com/IzomSoftware/swiftunnel/swiftypes"
 	"github.com/vishvananda/netlink"
 	"golang.org/x/sys/unix"
 	"io"

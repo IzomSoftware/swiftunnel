@@ -50,7 +50,7 @@ A collection of helper functions for:
 ## Installation
 
 ```bash
-go get github.com/SyNdicateFoundation/swiftunnel
+go get github.com/IzomSoftware/swiftunnel
 ```
 
 ---
@@ -65,10 +65,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/SyNdicateFoundation/swiftunnel"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftconfig"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftutils"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftypes"
+	"github.com/IzomSoftware/swiftunnel"
+	"github.com/IzomSoftware/swiftunnel/swiftconfig"
+	"github.com/IzomSoftware/swiftunnel/swiftutils"
+	"github.com/IzomSoftware/swiftunnel/swiftypes"
 	"log"
 )
 
@@ -150,8 +150,3 @@ performance-oriented architecture and provides cross-platform compatibility wher
 open an issue first to discuss the proposed updates.
 
 ---
-
-## License
-
-Copyright (c) 2023-2026 SyNdicateFoundation. All rights reserved. Use of this source code is governed by the proprietary
-license found in the LICENSE file.

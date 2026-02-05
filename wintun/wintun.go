@@ -7,7 +7,7 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftypes"
+	"github.com/IzomSoftware/swiftunnel/swiftypes"
 	"golang.org/x/sys/windows"
 	"io"
 	"os"

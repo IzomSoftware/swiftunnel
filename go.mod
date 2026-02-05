@@ -1,4 +1,4 @@
-module github.com/SyNdicateFoundation/swiftunnel
+module github.com/IzomSoftware/swiftunnel
 
 go 1.24.0
 

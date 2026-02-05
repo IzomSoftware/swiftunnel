@@ -5,7 +5,7 @@ package swiftunnel
 import (
 	"errors"
 	"fmt"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftypes"
+	"github.com/IzomSoftware/swiftunnel/swiftypes"
 	"github.com/vishvananda/netlink"
 	"golang.org/x/sys/unix"
 	"os"

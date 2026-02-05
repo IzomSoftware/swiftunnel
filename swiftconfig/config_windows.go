@@ -4,7 +4,7 @@ package swiftconfig
 
 import (
 	"errors"
-	"github.com/SyNdicateFoundation/swiftunnel/swiftypes"
+	"github.com/IzomSoftware/swiftunnel/swiftypes"
 	"golang.org/x/sys/windows"
 	"net"
 )
